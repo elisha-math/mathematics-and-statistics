@@ -66,19 +66,19 @@ For this example, treating the 10 students as the entire population:
 \sigma^2=\frac{\sum(x-\mu)^2}{N}
 \]
 
-The sum of squared deviations from the mean is 1,900.
+The sum of squared deviations from the mean is 1,750.
 
 \[
-\sigma^2=\frac{1900}{10}=190
+\sigma^2=\frac{1750}{10}=175
 \]
 
 \[
-\sigma=\sqrt{190}\approx13.78
+\sigma=\sqrt{190}\approx13.23
 \]
 
-**Population variance = 190**
+**Population variance = 175**
 
-**Population standard deviation ≈ 13.78**
+**Population standard deviation ≈ 13.23**
 
 ## Conclusion
 
