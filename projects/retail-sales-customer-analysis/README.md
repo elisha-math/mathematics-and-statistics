@@ -62,3 +62,35 @@ The project will include the dataset source, analysis notebook, Python scripts, 
 The original dataset was inspected and cleaned before analysis. The process covered duplicate records, missing values, cancelled transactions, unusual quantities and administrative entries.
 
 For the full methodology and validation results, see the [Data Cleaning Report](data_cleaning_report.md).
+
+## Key Findings
+
+- **Total sales revenue:** £10,009,365.98 from cleaned product sales records.
+- **Top revenue month:** November 2011, with approximately £1.45 million in sales.
+- **Top revenue-generating product:** Regency Cakestand 3 Tier (£174,156.54).
+- **Largest market:** United Kingdom, contributing approximately 84.73% of total revenue.
+- **Customer analysis:** 4,333 customers had identifiable CustomerIDs.
+- **RFM analysis:** 302 Champions generated approximately 48.04% of identified-customer revenue.
+
+## Tools and Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
+
+## Project Files
+
+- `retail_sales_customer_analysis.ipynb` – Complete analysis, code, visualisations and findings.
+- `data_cleaning_report.md` – Data preparation methods, decisions and limitations.
+- `README.md` – Project overview and key results.
+
+## Dataset
+
+The project uses the Online Retail dataset from the UCI Machine Learning Repository, covering transactions from December 2010 to December 2011.
+
+## Skills Demonstrated
+
+Data cleaning, exploratory data analysis, descriptive statistics, sales analysis, product performance analysis, customer purchasing behaviour, RFM segmentation and data visualisation.
