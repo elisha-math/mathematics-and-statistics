@@ -83,7 +83,8 @@ def main():
     print("--- 4. Range ---")
     print(f"Highest mark = {maximum_mark:g}")
     print(f"Lowest mark = {minimum_mark:g}")
-   print(f"Range = {mark_range:g}\n")
+    print(f"Range = {mark_range:g}\n")
+
     print("--- 5. Population Variance and Standard Deviation ---")
     print(f"Sum of squared deviations = {sum_squared_deviations:.2f}")
     print(
