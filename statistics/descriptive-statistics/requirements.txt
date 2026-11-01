@@ -1,1 +1,1 @@
-pandas>=2.0,<4.0
+# No external dependencies are required for the Python script.
