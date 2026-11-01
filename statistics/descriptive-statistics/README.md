@@ -84,6 +84,6 @@ The sum of squared deviations from the mean is 1,750.
 
 The average mark in this dataset is 65, while the median is 62.5 and the mode is 60. The range of 45 shows the difference between the highest and lowest marks.
 
-The standard deviation of approximately 13.78 indicates how far the marks typically vary around the mean.
+The standard deviation of approximately 13.23 indicates how far the marks typically vary around the mean.
 
 This example demonstrates how descriptive statistics can turn a collection of raw numbers into information that is easier to understand and interpret.
