@@ -56,3 +56,9 @@ Practical recommendations will be developed from the results of the analysis.
 ## 8. Project Structure
 
 The project will include the dataset source, analysis notebook, Python scripts, visualisations and documentation.
+
+## Data Preparation
+
+The original dataset was inspected and cleaned before analysis. The process covered duplicate records, missing values, cancelled transactions, unusual quantities and administrative entries.
+
+For the full methodology and validation results, see the [Data Cleaning Report](data_cleaning_report.md).
