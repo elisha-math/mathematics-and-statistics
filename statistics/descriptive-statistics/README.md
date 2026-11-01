@@ -73,7 +73,7 @@ The sum of squared deviations from the mean is 1,750.
 \]
 
 \[
-\sigma=\sqrt{190}\approx13.23
+\sigma=\sqrt{175}\approx13.23
 \]
 
 **Population variance = 175**
